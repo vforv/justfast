@@ -1,0 +1,24 @@
+{
+  "name": "justfast",
+  "version": "1.0.1",
+  "description": "Lightweight framework for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vforv/justfast.git"
+  },
+  "keywords": [
+    "fw",
+    "framework",
+    "node.js"
+  ],
+  "author": "Vladimir Djukic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vforv/justfast/issues"
+  },
+  "homepage": "https://github.com/vforv/justfast#readme"
+}
